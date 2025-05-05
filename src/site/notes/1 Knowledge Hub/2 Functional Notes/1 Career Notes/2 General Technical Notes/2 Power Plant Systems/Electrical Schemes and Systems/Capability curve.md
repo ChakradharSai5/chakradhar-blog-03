@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/2-power-plant-systems/electrical-schemes-and-systems/capability-curve/","noteIcon":""}
+---
+
+#OfficeNote 
+## Capability curve in generator and its limits on either sides
+
+- A graph shown by padhi sir

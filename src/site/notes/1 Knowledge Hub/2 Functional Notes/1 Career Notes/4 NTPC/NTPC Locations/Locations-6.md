@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/ntpc-locations/locations-6/","noteIcon":""}
+---
+
+- [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Ravi Teja\|Ravi Teja]] said, vindhyachal has very good school - DPS, it is famous for that
+- vindhyachal, singrauli, are near by, banaras is the nearest city kind of far, nearest air port is also from there.
+- bermuda triangle plants are very much connected, another plan tin bermuda triangle is Rihand
+- [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Ravi Teja\|Ravi Teja]] is now in singrauli, his and vindhyachal is a river bank away
+	- Nearest city is Singrauli and can get everything from there
+	- For going home, he goes to Jabalpur and from there is direct train to Ongole, his native
+	- His father story - #pending 
+- [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Aayush NTPC\|Aayush NTPC]] has his home, he is from bihar, has many plants near by, including these plants in northen
+- Got to know about these plants nearby [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Aayush NTPC\|Aayush NTPC]] home and note near by cities there #UrgentThing 
+- Sulay who got training in BHEL on nuclear, I think bangalore, later got posted in mumbai or somewhere #pending , now recently Hitesh contacted him to ask about BHEL training, as Hitesh thinking to applying, Sulay said, soon they will be postedin nuclear side of NTPC mostly erection, so hitesh cancelled his plan apply for nuclear
+- Subratanu sarkar who was in our group-B St-2 applied in HR and so got transferred to Mines called Badam, Corporate communications
+	- Hazaribad near to wherever Sarkar got posted and I think that's near to north karanpura
+	- which is in odisha mentioned in [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/1 NTPC Business/Mining\|Mining]]
+- Sujeet who used be here in Kaniha Group-D got transferred to HR dept in dulanga minese mentioned in [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/1 NTPC Business/Mining\|Mining]]
+- Sukanta mandal got transfereed to Kanti bihar
+- Kanti in Bihar
+	- a JV with Bihar goverement, aquired in 2018, got stopped in 2003, established in some 80s
+
+- Koldam to Chandigarh just about 4 hrs
+- Gadarwara-as said by Denish-as his training was at Gadarwara, it relatively new plant so township is very good, and the 
+	- Nearest city is Gadarwara itself which is 30mins, that is on par with Angul, road is also very good, NTPC made the road
+	- next nearest is Jabalpur, that is on par with Bhubaneswar travel of 2hours, road is also very good
+	- next nearest is Bhopal & also Indore which would be 4Hrs roughly
+	- Good township, Good documentation of plant schemes very colorful documents, Denish has shown, it looks very promising
+	- He also added that Khargone is also ok, but among both these, Gadarwara is better as far from tribal area unlike Khargone
+- Sarkar who got transfered to Badam mines Coal Block, located in Jharkhand, India., where there is no current 2024 township, so there's a near by city called Hazaribagh town is approximately 70-80 kilometers away from the Badam Coal Block, where like in kudgi many do up and down from Bijapur. Here they do up and down from Hazaribagh of Hazaribagh district - Jharkhand. [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/1 NTPC Business/Mining\|Mining]]
+- Vishal singh sir of EMD, worked in Netra at corporate, then came here to kaniha
+- Prasnath is located in Darlipalli, shall go to Jharsiguda nearest city, from there he goes to Chennai, and from there to his hometown, Erode
+- 

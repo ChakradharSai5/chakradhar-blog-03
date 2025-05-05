@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/film-making/technical-help/photography-editing-curves/","noteIcon":""}
+---
+
+
+![WLfvFCy - Imgur.png](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/WLfvFCy%20-%20Imgur.png)
