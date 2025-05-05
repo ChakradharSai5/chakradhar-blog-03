@@ -4,7 +4,7 @@
 
 - To start any series, there all many permissive, some are following, 
 	- Suction valve in open
-	- Seal water in charge condition [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/5 Offsite Systems/ASPH/Ash slurry series notes#Seal Water\|#Seal Water]]
+	- Seal water in charge condition [[#Seal Water]]
 - 
 ![20240908_172809 1.jpg](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/20240908_172809%201.jpg)
 

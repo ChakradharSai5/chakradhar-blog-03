@@ -6,7 +6,7 @@
 
 To reduce NOx emissions in thermal power plants, here are some simple ways:
 
-1. **Over Fire Burners (OFB)**: These burners add extra air above the flame to lower combustion temperatures, reducing NOx formation, and also reduce the amount of air at the combustion as this also reduces the NOx formation. refer [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/2 Power Plant Systems/Flue Gas constituents and Norms/Controlling of NOx and Sox & Flue Gas Norms#• Controlling and norms on flue gas\|#• Controlling and norms on flue gas]]
+1. **Over Fire Burners (OFB)**: These burners add extra air above the flame to lower combustion temperatures, reducing NOx formation, and also reduce the amount of air at the combustion as this also reduces the NOx formation. refer [[#• Controlling and norms on flue gas]]
 2. **Flue Gas Recirculation (FGR)**: Recirculating some of the exhaust gases back into the combustion chamber lowers the temperature, helping to cut down NOx.
 3. **Low NOx Burners**: These are specially designed burners that help mix air and fuel more efficiently, keeping the combustion temperature lower and reducing NOx.
 4. **SCR & SNCR**: Technologies like Selective Catalytic Reduction (SCR) and Selective Non-Catalytic Reduction (SNCR) inject chemicals to turn NOx into harmless gases
