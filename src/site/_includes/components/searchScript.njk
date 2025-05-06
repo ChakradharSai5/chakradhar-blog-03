@@ -1,15 +1,45 @@
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-    setCorrectShortcut();
-    init();
-}, false);
+document.addEventListener('DOMContentLoaded', init, false);
+document.addEventListener('DOMContentLoaded', setCorrectShortcut, false);
 
-function setCorrectShortcut() {
-    if (navigator.platform.toUpperCase().includes('MAC')) {
-        document.querySelectorAll(".search-keys").forEach(x => x.innerHTML = "⌘ + K");
+window.toggleSearch = function () {
+    const searchModal = document.getElementById('globalsearch');
+    if (searchModal.classList.contains('active')) {
+        searchModal.classList.remove('active');
+    } else {
+        searchModal.classList.add('active');
+        document.getElementById('term').focus();
     }
 }
+
+window.toggleTagSearch = function (evt) {
+    const term = evt.textContent;
+    if (term) {
+        document.getElementById('term').value = term.trim();
+        window.toggleSearch();
+        window.search();
+    }
+}
+
+const loadingSvg = `
+<svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">
+      <circle cx="22" cy="22" r="6" stroke-opacity="0">
+          <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />
+          <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />
+          <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />
+      </circle>
+      <circle cx="22" cy="22" r="6" stroke-opacity="0">
+          <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />
+          <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />
+          <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />
+      </circle>
+      <circle cx="22" cy="22" r="8">
+          <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />
+      </circle>
+  </g>
+</svg>`;
 
 function debounce(func, wait, immediate) {
     let timeout;
@@ -26,7 +56,11 @@ function debounce(func, wait, immediate) {
     };
 }
 
-const loadingSvg = `... your SVG ...`;
+function setCorrectShortcut() {
+    if (navigator.platform.toUpperCase().indexOf('MAC') >= 0) {
+        document.querySelectorAll(".search-keys").forEach(x => x.innerHTML = "⌘ + K");
+    }
+}
 
 function createIndex(posts) {
     const encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
@@ -41,151 +75,170 @@ function createIndex(posts) {
         ]
     });
     posts.forEach((p, idx) => {
-        contentIndex.add({ id: idx, title: p.title, content: p.content, tags: p.tags });
+        contentIndex.add({
+            id: idx, title: p.title, content: p.content, tags: p.tags
+        });
     });
     return contentIndex;
 }
 
-let field;
-let resultsDiv;
-
 async function init() {
-    const searchIndexDate = '{{meta.buildDate|isoDate}}'; // make sure this renders
+    const searchIndexDate = '{{meta.buildDate|isoDate}}';
     let shouldFetch = true;
-    
+
     if (localStorage.getItem("searchIndex")) {
         const { date, docs } = JSON.parse(localStorage.getItem('searchIndex'));
         if (date === searchIndexDate) {
             shouldFetch = false;
-            window.index = createIndex(docs);
+            const index = createIndex(docs);
             window.docs = docs;
+            window.index = index;
         }
     }
-    
+
     if (shouldFetch) {
-        const res = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}');
-        const docs = await res.json();
-        window.index = createIndex(docs);
+        const docs = await (await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
+        const index = createIndex(docs);
+        localStorage.setItem("searchIndex", JSON.stringify({ date: '{{meta.buildDate|isoDate}}', docs }));
         window.docs = docs;
-        localStorage.setItem("searchIndex", JSON.stringify({ date: searchIndexDate, docs }));
+        window.index = index;
     }
 
-    document.addEventListener('keydown', handleKeyboardShortcuts);
+    document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+            e.preventDefault();
+            toggleSearch();
+        }
+        if (e.key === 'Escape') {
+            document.getElementById('globalsearch').classList.remove('active');
+        }
 
-    field = document.querySelector('#term');
-    resultsDiv = document.querySelector('#search-results');
+        if (document.getElementById('globalsearch').classList.contains('active')) {
+            if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+                e.preventDefault();
+                navigateResults(e.key);
+            }
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const active = document.querySelector('.searchresult.active');
+                if (active) {
+                    window.location.href = active.querySelector("a").href;
+                }
+            }
+        }
+    });
 
     const debouncedSearch = debounce(search, 200, false);
+    field = document.querySelector('#term');
     field.addEventListener('keydown', (e) => {
         if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') {
             debouncedSearch();
         }
     });
 
-    const params = new URLSearchParams(location.search);
+    resultsDiv = document.querySelector('#search-results');
+
+    const params = new URL(location.href).searchParams;
     if (params.get('q')) {
-        field.value = params.get('q');
+        field.setAttribute('value', params.get('q'));
         toggleSearch();
         search();
     }
 }
 
-function handleKeyboardShortcuts(e) {
-    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-        e.preventDefault();
-        toggleSearch();
-    }
-    if (e.key === 'Escape') {
-        document.getElementById('globalsearch').classList.remove('active');
-    }
-    if (document.getElementById('globalsearch').classList.contains('active')) {
-        handleArrowNavigation(e);
-    }
-}
-
-function handleArrowNavigation(e) {
+function navigateResults(direction) {
     const active = document.querySelector('.searchresult.active');
-    if (e.key === 'ArrowDown') {
-        e.preventDefault();
+    if (direction === 'ArrowDown') {
         if (active) {
             active.classList.remove('active');
-            (active.nextElementSibling || document.querySelector('.searchresult')).classList.add('active');
+            if (active.nextElementSibling) {
+                active.nextElementSibling.classList.add('active');
+            } else {
+                document.querySelector('.searchresult').classList.add('active');
+            }
         } else {
-            document.querySelector('.searchresult')?.classList.add('active');
+            document.querySelector('.searchresult').classList.add('active');
         }
-        document.querySelector('.searchresult.active')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
-    if (e.key === 'ArrowUp') {
-        e.preventDefault();
+    if (direction === 'ArrowUp') {
         if (active) {
             active.classList.remove('active');
-            (active.previousElementSibling || document.querySelector('.searchresult:last-child')).classList.add('active');
+            if (active.previousElementSibling) {
+                active.previousElementSibling.classList.add('active');
+            } else {
+                const all = document.querySelectorAll('.searchresult');
+                all[all.length - 1].classList.add('active');
+            }
+        } else {
+            const all = document.querySelectorAll('.searchresult');
+            all[all.length - 1].classList.add('active');
         }
-        document.querySelector('.searchresult.active')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
-    if (e.key === 'Enter' && active) {
-        e.preventDefault();
-        window.location.href = active.querySelector('a').href;
+
+    const currentActive = document.querySelector('.searchresult.active');
+    if (currentActive) {
+        currentActive.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
     }
 }
-
-window.toggleSearch = function () {
-    const modal = document.getElementById('globalsearch');
-    modal.classList.toggle('active');
-    if (modal.classList.contains('active')) {
-        document.getElementById('term').focus();
-    }
-};
-
-window.toggleTagSearch = function (evt) {
-    const term = evt.textContent.trim();
-    if (term) {
-        document.getElementById('term').value = term;
-        toggleSearch();
-        search();
-    }
-};
 
 window.lastSearch = '';
 
 async function search() {
     const searchTerm = field.value.trim();
-    if (!searchTerm || searchTerm === window.lastSearch) return;
+    if (!searchTerm || searchTerm === lastSearch) return;
 
+    console.log(`search for ${searchTerm}`);
     window.lastSearch = searchTerm;
+
     resultsDiv.innerHTML = loadingSvg;
 
     const results = offlineSearch(searchTerm);
 
     if (!results.length) {
-        resultsDiv.innerHTML = `<p>No results for "${searchTerm}"</p>`;
+        const resultParagraph = document.createElement("p");
+        resultParagraph.innerText = `No results for "${searchTerm}"`;
+        resultsDiv.innerHTML = '';
+        resultsDiv.appendChild(resultParagraph);
         return;
     }
 
     let resultsHTML = '<div style="max-width:100%;">';
     results.forEach(r => {
-        resultsHTML += `
+        if (r.tags && r.tags.length > 0) {
+            resultsHTML += `
             <div class="searchresult">
                 <a class="search-link" href="${r.url}">${r.title}</a>
                 <div onclick="window.location='${r.url}'">
                     <div class="header-meta">
                         <div class="header-tags">
-                            ${(r.tags || []).map(tag => `<a class="tag" href="JavaScript:void(0);">#${tag}</a>`).join("")}
+                            ${r.tags.map(tag => `<a class="tag" href="JavaScript:Void(0);" onclick="toggleTagSearch(event)">${tag}</a>`).join("")}
                         </div>
                     </div>
                     ${r.content}
                 </div>
-            </div>
-        `;
+            </div>`;
+        } else {
+            resultsHTML += `
+            <div class="searchresult">
+                <a class="search-link" href="${r.url}">${r.title}</a>
+                <div onclick="window.location='${r.url}'">
+                    ${r.content}
+                </div>
+            </div>`;
+        }
     });
     resultsHTML += '</div>';
     resultsDiv.innerHTML = resultsHTML;
 }
 
-function offlineSearch(term) {
-    if (!window.index || !window.docs) return [];
-    const refs = window.index.search(term, { enrich: true });
-    const flatRefs = refs.flatMap(r => r.result);
-    return flatRefs.map(id => window.docs[id]);
+function offlineSearch(searchTerm) {
+    const results = window.index.search(searchTerm, { enrich: true });
+    const flatResults = [];
+    results.forEach(r => {
+        r.result.forEach(id => {
+            flatResults.push(window.docs[id]);
+        });
+    });
+    return flatResults;
 }
 </script>
