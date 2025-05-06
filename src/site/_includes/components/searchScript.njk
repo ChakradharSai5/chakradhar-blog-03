@@ -4,29 +4,17 @@
     document.addEventListener('DOMContentLoaded', setCorrectShortcut, false);
 
     window.toggleSearch = function () {
-        if (document.getElementById('globalsearch').classList.contains('active')) {
-            document
-                .getElementById('globalsearch')
-                .classList
-                .remove('active');
-        } else {
-            document
-                .getElementById('globalsearch')
-                .classList
-                .add('active');
-            document
-                .getElementById('term')
-                .focus();
+        const searchEl = document.getElementById('globalsearch');
+        searchEl.classList.toggle('active');
+        if (searchEl.classList.contains('active')) {
+            document.getElementById('term').focus();
         }
     }
 
     window.toggleTagSearch = function (evt) {
-        const term = evt?.textContent?.trim();
+        const term = evt.textContent;
         if (term) {
-            window
-                .document
-                .getElementById('term')
-                .value = term;
+            document.getElementById('term').value = term.trim();
             window.toggleSearch();
             window.search();
         }
@@ -35,190 +23,127 @@
     const loadingSvg = `...`; // Keep your original loading SVG here
 
     function debounce(func, wait, immediate) {
-        var timeout;
+        let timeout;
         return function () {
-            var context = this,
-                args = arguments;
-            var later = function () {
+            const context = this, args = arguments;
+            const later = function () {
                 timeout = null;
-                if (!immediate) 
-                    func.apply(context, args);
-                };
-            var callNow = immediate && !timeout;
+                if (!immediate) func.apply(context, args);
+            };
+            const callNow = immediate && !timeout;
             clearTimeout(timeout);
             timeout = setTimeout(later, wait);
-            if (callNow) 
-                func.apply(context, args);
-            };
-    };
+            if (callNow) func.apply(context, args);
+        };
+    }
 
     function setCorrectShortcut() {
-        if (navigator.platform.toUpperCase().indexOf('MAC') >= 0) {
-            document
-                .querySelectorAll(".search-keys")
-                .forEach(x => x.innerHTML = "⌘ + K");
+        if (navigator.platform.toUpperCase().includes('MAC')) {
+            document.querySelectorAll(".search-keys").forEach(x => x.textContent = "⌘ + K");
         }
     }
 
     function createIndex(posts) {
-        const encoder = (str) => str
-            .toLowerCase()
-            .split(/([^a-z]|[^\x00-\x7F])/)
-        const contentIndex = new FlexSearch.Document({
+        const index = new FlexSearch.Document({
             document: {
                 id: "id",
                 index: [
-                    {
-                        field: "content",
-                        tokenize: "reverse",
-                        encode: encoder
-                    }, {
-                        field: "title",
-                        tokenize: "forward",
-                        encode: encoder
-                    }, {
-                        field: "tags",
-                        tokenize: "forward",
-                        encode: encoder
-                    }
+                    { field: "content", tokenize: "reverse" },
+                    { field: "title", tokenize: "forward" },
+                    { field: "tags", tokenize: "forward" }
                 ]
             }
-        })
-        posts.forEach((p, idx) => {
-            contentIndex.add({
-                id: idx, 
-                title: p.title, 
-                content: p.content, 
-                tags: p.tags
-            })
         });
-        return contentIndex;
+        posts.forEach((p, id) => index.add({ id, ...p }));
+        return index;
     }
 
     async function init() {
-        let field, resultsDiv;
-
         try {
             const searchIndexDate = '{{meta.buildDate|isoDate}}';
-            let shouldFetch = true;
-            if(localStorage.getItem("searchIndex")) {
-                try {
-                    let {date, docs} = JSON.parse(localStorage.getItem('searchIndex'));
-                    if(date === searchIndexDate){
-                        shouldFetch = false;
-                        window.docs = docs
-                        window.index = createIndex(docs);
-                    }
-                } catch(e) {
-                    console.log('Invalid stored index');
+            let docs;
+            
+            // Try loading from cache
+            const cached = localStorage.getItem("searchIndex");
+            if (cached) {
+                const { date, data } = JSON.parse(cached);
+                if (date === searchIndexDate) {
+                    docs = data;
+                    window.docs = docs;
+                    window.index = createIndex(docs);
                 }
             }
-            if(shouldFetch){
-                let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
-                window.index = createIndex(docs);
+            
+            // Fetch fresh if needed
+            if (!docs) {
+                const response = await fetch('/searchIndex.json?v=' + searchIndexDate);
+                docs = await response.json();
                 localStorage.setItem("searchIndex", JSON.stringify({
-                    date: '{{meta.buildDate|isoDate}}', 
-                    docs
+                    date: searchIndexDate,
+                    data: docs
                 }));
-                window.docs = docs
+                window.docs = docs;
+                window.index = createIndex(docs);
             }
-        } catch(e) {
-            console.error('Search init failed', e);
-            return;
-        }
 
-        document.addEventListener('keydown', (e) => {
-            // ... keep original keydown handler exactly as before ...
-        });
+            // Setup search field
+            const field = document.getElementById('term');
+            const resultsDiv = document.getElementById('search-results');
+            
+            field.addEventListener('input', debounce(() => {
+                if (field.value.trim()) window.search();
+            }, 200));
 
-        field = document.querySelector('#term');
-        resultsDiv = document.querySelector('#search-results');
-
-        const debouncedSearch = debounce(search, 200, false);
-        field.addEventListener('keydown', (e) => {
-            if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') {
-                debouncedSearch();
+            // Handle initial search query
+            const urlParams = new URLSearchParams(window.location.search);
+            const initialQuery = urlParams.get('q');
+            if (initialQuery) {
+                field.value = initialQuery;
+                window.toggleSearch();
+                window.search();
             }
-        });
-
-        const params = new URL(location.href).searchParams;
-        if (params.get('q')) {
-            field.value = params.get('q');
-            if (window.index && window.docs) {
-                toggleSearch();
-                search();
-            }
+            
+        } catch (error) {
+            console.error('Search initialization failed:', error);
         }
     }
 
-    window.lastSearch = '';
-    async function search() {
-        let search = document.querySelector('#term').value.trim();
-        if (!search || search === lastSearch) return;
-        window.lastSearch = search;
-
+    window.search = function () {
+        const term = document.getElementById('term').value.trim();
+        if (!term || term === window.lastSearch) return;
+        window.lastSearch = term;
+        
+        const resultsDiv = document.getElementById('search-results');
         resultsDiv.innerHTML = loadingSvg;
         
-        try {
-            let results = offlineSearch(search);
-            let resultsHTML = '';
-            if (!results.length) {
-                resultsDiv.innerHTML = `<p>No results for "${search}"</p>`;
-                return;
-            }
-            
-            resultsHTML += '<div style="max-width:100%;">';
-            results.forEach(r => {
-                // Keep original result formatting
-                if(r.tags && r.tags.length > 0){
-                    resultsHTML += `<div class="searchresult">
-                        <a class="search-link" href="${r.url}">${r.title}</a>
-                        <div onclick="window.location='${r.url}'">
-                            <div class="header-meta">
-                                <div class="header-tags">
-                                    ${r.tags.map(tag=>'<a class="tag" onclick="toggleTagSearch(this)">#'+tag+'</a>').join("")}
-                                </div>
-                            ${r.content}
-                        </div>
-                    </div>`;
-                } else {
-                    resultsHTML += `<div class="searchresult">
-                        <a class="search-link" href="${r.url}">${r.title}</a>
-                        <div onclick="window.location='${r.url}'">
-                            ${r.content}
-                        </div>
-                    </div>`;
-                }
-            });
-            resultsDiv.innerHTML = resultsHTML;
-        } catch(e) {
-            console.error('Search failed', e);
-        }
+        // Simple search execution
+        const results = window.index.search(term, {
+            field: "title",
+            limit: 20,
+            suggest: true
+        }).concat(window.index.search(term, {
+            field: "content",
+            limit: 20,
+            suggest: true
+        }));
+        
+        const uniqueResults = [...new Set(results.flatMap(r => r.result))];
+        const items = uniqueResults.map(id => window.docs[id]);
+        
+        resultsDiv.innerHTML = items.length 
+            ? items.map(item => `
+                <div class="searchresult">
+                    <a class="search-link" href="${item.url}">${item.title}</a>
+                    <div>${truncate(item.content, 200)}</div>
+                    ${item.tags?.length ? `<div class="tags">${
+                        item.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')
+                    }</div>` : ''}
+                </div>`
+            ).join('') 
+            : `<p>No results for "${term}"</p>`;
     }
 
     function truncate(str, size) {
-        str = str.replaceAll(/<[^>]*>/g, '');
-        return str.length <= size ? str : str.substring(0, size - 3) + '...';
-    }
-
-    function offlineSearch(searchQuery) {
-        if (!window.index || !window.docs) return [];
-        
-        const isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
-        const query = isTagSearch ? searchQuery.substring(1) : searchQuery;
-        
-        const results = window.index.search(query, [
-            isTagSearch ? { field: "tags" } : { field: "title", limit: 5 },
-            { field: "content", limit: 10 }
-        ]);
-
-        const uniqueIds = new Set();
-        results.forEach(res => res.result.forEach(id => uniqueIds.add(id)));
-        
-        return Array.from(uniqueIds).map(id => ({
-            ...window.docs[id],
-            content: truncate(window.docs[id].content, 400),
-            tags: (window.docs[id].tags || []).filter(t => !['gardenEntry', 'note'].includes(t))
-        })).filter(r => r.tags.length > 0 || !isTagSearch);
+        return str.length > size ? str.substring(0, size) + '...' : str;
     }
 </script>
