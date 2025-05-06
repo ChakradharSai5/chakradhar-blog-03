@@ -3,6 +3,11 @@ document.addEventListener('DOMContentLoaded', async function() {
     const searchResults = document.getElementById('searchResults');
     const searchForm = document.getElementById('searchForm');
 
+    if (!searchBox || !searchResults || !searchForm) {
+        // If any of the required elements are missing, do not run search code
+        return;
+    }
+
     let posts = [];
     let index;
 
