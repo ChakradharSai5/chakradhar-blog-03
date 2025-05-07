@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/c-movies/flea-bag/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/C Movies/Flea Bag/","noteIcon":""}
 ---
 
 - I have not seen it, and I doubt if I ever get time to properly watch it

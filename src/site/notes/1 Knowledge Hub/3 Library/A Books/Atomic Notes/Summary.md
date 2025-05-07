@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/a-books/atomic-notes/summary/","tags":["book"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/A Books/Atomic Notes/Summary/","tags":["book"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/other-ps-us/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/Other PSUs/","noteIcon":""}
 ---
 
 - SAIL- mostly locations in north east, which is way underdeveloped so Denish said he don’t prefer going there,

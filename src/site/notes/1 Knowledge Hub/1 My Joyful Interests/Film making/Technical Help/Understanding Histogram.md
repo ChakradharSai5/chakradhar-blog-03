@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/film-making/technical-help/understanding-histogram/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Film making/Technical Help/Understanding Histogram/","noteIcon":""}
 ---
 
 

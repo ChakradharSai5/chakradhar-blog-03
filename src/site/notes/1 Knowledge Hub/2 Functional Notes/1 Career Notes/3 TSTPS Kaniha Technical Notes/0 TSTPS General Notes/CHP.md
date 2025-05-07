@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/0-tstps-general-notes/chp/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/0 TSTPS General Notes/CHP/","noteIcon":""}
 ---
 
 - We use roughly 50,000Tons of coal daily, as 6 units, rated ~350Tph per unit, and for 24Hrs

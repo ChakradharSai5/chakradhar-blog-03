@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/a-general-s-and-s/you-tube-watch-systems/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/A General S&S/YouTube Watch Systems/","noteIcon":""}
 ---
 
 - If any YouTube video to watch immedietly or to be watched just to absorb or listen is added to "**watch later**"

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/varsity/varsity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Varsity/Varsity/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/chakradhar-finance-notes/finance-hacks/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/Chakradhar Finance Notes/Finance Hacks/","noteIcon":""}
 ---
 
 - ay you take a loan of Rs 1 crore today at a 6% p.a. interest rate, repayable over a 30 year schedule.  

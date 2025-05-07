@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/1-career-digest/pms/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/1 Career Digest/PMS/","noteIcon":""}
 ---
 
 - bottom must be given to certain people every year, that is rule, so they select who left from here or left company somebody like that to give that bottom

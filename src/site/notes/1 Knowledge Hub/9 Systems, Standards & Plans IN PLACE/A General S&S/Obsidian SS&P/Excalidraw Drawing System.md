@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/a-general-s-and-s/obsidian-ss-and-p/excalidraw-drawing-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/A General S&S/Obsidian SS&P/Excalidraw Drawing System/","noteIcon":""}
 ---
 
 ### The Problem

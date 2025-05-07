@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/notions-i-derirved/to-calm-myself/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/To Calm myself/","noteIcon":""}
 ---
 
 I have realized doing some things, take away anxiety and gives me slow and calm thinking this tells [[My Value System\|My Value System]]

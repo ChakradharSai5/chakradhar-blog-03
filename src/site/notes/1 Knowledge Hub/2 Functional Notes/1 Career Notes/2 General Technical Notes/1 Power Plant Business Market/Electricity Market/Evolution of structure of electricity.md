@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/1-power-plant-business-market/electricity-market/evolution-of-structure-of-electricity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/1 Power Plant Business Market/Electricity Market/Evolution of structure of electricity/","noteIcon":""}
 ---
 
 ## Prior to 2003 electricity act

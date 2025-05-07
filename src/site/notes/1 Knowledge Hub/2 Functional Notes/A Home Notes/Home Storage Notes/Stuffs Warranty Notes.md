@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/a-home-notes/home-storage-notes/stuffs-warranty-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/A Home Notes/Home Storage Notes/Stuffs Warranty Notes/","noteIcon":""}
 ---
 
 - Casio Edifice 2.5year warranty

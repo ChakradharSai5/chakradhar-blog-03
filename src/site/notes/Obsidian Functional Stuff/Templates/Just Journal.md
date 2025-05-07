@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-functional-stuff/templates/just-journal/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Obsidian Functional Stuff/Templates/Just Journal/","noteIcon":""}
 ---
 
 ### <% tp.date.now("Do MMMM YYYY") %>

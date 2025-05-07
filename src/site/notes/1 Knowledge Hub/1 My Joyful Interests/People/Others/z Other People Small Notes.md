@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/z-other-people-small-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/z Other People Small Notes/","noteIcon":""}
 ---
 
 - when  Ramesh sinha GM in kaniha, when Awadesh, N C patra and J K tripathy were in ASCE,SCE and ASCE respectively

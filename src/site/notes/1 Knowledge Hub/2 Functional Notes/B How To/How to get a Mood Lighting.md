@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/b-how-to/how-to-get-a-mood-lighting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/B How To/How to get a Mood Lighting/","noteIcon":""}
 ---
 
 - Usual lights are at 5600Kelvin

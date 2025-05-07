@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/iex-course/1-course-overview/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/IEX Course/1 Course overview/","noteIcon":""}
 ---
 
 ## Overview

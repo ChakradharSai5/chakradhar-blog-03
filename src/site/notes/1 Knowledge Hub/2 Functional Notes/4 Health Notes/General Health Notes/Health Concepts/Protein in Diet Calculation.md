@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/4-health-notes/general-health-notes/health-concepts/protein-in-diet-calculation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/4 Health Notes/General Health Notes/Health Concepts/Protein in Diet Calculation/","noteIcon":""}
 ---
 

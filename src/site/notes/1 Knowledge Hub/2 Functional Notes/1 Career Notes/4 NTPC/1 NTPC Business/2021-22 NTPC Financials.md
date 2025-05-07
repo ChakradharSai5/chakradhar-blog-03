@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/1-ntpc-business/2021-22-ntpc-financials/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/1 NTPC Business/2021-22 NTPC Financials/","noteIcon":""}
 ---
 
 ### **2021-22, NTPC FINANCIALS:**

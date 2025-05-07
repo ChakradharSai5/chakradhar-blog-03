@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/sravya/sravya-s-bucket-list/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Sravya/Sravya's Bucket List/","noteIcon":""}
 ---
 
 - Any good baking class that teaches very good or good traditional cooking with tips and tricks

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/3-power-plant-commerce/pending-things-to-get-clarity-on/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/3 Power Plant Commerce/Pending things to get clarity on/","noteIcon":""}
 ---
 
 - With completion of 25 years, as fixed charge is completely recovered, some 25paisa something will be given , so full benefit

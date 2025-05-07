@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/film-making/drafts-written-for-short-film/draft-2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Film making/Drafts written for Short Film/Draft-2/","noteIcon":""}
 ---
 

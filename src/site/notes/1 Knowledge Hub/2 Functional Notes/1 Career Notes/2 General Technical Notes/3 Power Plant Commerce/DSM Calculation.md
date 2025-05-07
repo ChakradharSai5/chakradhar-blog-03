@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/3-power-plant-commerce/dsm-calculation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/3 Power Plant Commerce/DSM Calculation/","noteIcon":""}
 ---
 
 - **CALCULATION**

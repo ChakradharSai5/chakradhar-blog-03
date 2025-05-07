@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/jordon-peterson/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Jordon Peterson/","noteIcon":""}
 ---
 
 - the best way to remember to is to write and interpret - said by him in interview

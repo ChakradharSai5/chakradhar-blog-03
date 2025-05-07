@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/a-books/origin-of-species/origin-of-species/","tags":["book"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/A Books/Origin of species/Origin of Species/","tags":["book"],"noteIcon":""}
 ---
 

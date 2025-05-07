@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/4-health-notes/chakradhar-health-notes/diet-draft-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/4 Health Notes/Chakradhar Health Notes/Diet Draft Plan/","noteIcon":""}
 ---
 
 # My diet plan

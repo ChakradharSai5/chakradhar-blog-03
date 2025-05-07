@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/ntpc-locations/locations-5/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/NTPC Locations/Locations-5/","noteIcon":""}
 ---
 
 - Bhopal is where [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Puru\|Puru]] got posted, and as he said, currently dtd Apr 2024, only he is working as deputy manager there, all others are senior managers, all others are of elctrical department, only he is of mechanical,  

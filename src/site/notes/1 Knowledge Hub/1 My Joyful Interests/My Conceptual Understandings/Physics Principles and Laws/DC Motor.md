@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/physics-principles-and-laws/dc-motor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Physics Principles and Laws/DC Motor/","noteIcon":""}
 ---
 
 - Now before reading this it is recommended to read [[1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Physics Principles and Laws/DC Vs AC Motor Working mechanism\|DC Vs AC Motor Working mechanism]], where I have explained how DC motor works

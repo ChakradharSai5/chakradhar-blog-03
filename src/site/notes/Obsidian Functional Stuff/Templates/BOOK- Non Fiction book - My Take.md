@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-functional-stuff/templates/book-non-fiction-book-my-take/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Obsidian Functional Stuff/Templates/BOOK- Non Fiction book - My Take/","noteIcon":""}
 ---
 
 ### What is something that I don't agree with the author?

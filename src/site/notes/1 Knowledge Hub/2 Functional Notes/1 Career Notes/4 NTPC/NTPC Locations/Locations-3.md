@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/ntpc-locations/locations-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/NTPC Locations/Locations-3/","noteIcon":""}
 ---
 
 - Dilip rawat TMD – came from vindhyachal saying- has good schools and very good shopping places, many branded shops just outside township, swiggy and zomato available , he used to use it regularly

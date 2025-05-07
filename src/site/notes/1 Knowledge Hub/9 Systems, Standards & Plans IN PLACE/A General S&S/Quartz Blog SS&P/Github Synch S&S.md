@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/a-general-s-and-s/quartz-blog-ss-and-p/github-synch-s-and-s/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/A General S&S/Quartz Blog SS&P/Github Synch S&S/","noteIcon":""}
 ---
 
 About Github:

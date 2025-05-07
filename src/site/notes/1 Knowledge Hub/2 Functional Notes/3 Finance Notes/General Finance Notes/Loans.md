@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/general-finance-notes/loans/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/General Finance Notes/Loans/","noteIcon":""}
 ---
 
 - Loan on land only can be taken when and there when you are purchasing a land, or for construction in that land

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/a-home-notes/my-digital-notes/stemcyte-details/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/A Home Notes/My Digital Notes/Stemcyte details/","noteIcon":""}
 ---
 
 

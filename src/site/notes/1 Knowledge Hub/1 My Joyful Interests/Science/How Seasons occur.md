@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/science/how-seasons-occur/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Science/How Seasons occur/","noteIcon":""}
 ---
 
  - The matter is Earth is rotating around sun in elliptical but if you see, it has very small eccentricity so it is almost like circle

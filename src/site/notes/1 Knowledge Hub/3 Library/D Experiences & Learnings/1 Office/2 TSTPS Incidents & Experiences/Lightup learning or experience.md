@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/2-tstps-incidents-and-experiences/lightup-learning-or-experience/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/2 TSTPS Incidents & Experiences/Lightup learning or experience/","noteIcon":""}
 ---
 
 1. During Mini OH of Unit-2, 2UA and 2UB both charged under ST-1 and also one of the bus in unit-1 is loaded with ST-1 as some UT non available

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/5-relationships-with-self-family-and-friends-ss-and-p/travel-planning-ss-and-p/travel-standards/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/5 Relationships with Self, Family & Friends SS&P/Travel Planning SS&P/Travel Standards/","noteIcon":""}
 ---
 
 #pending 

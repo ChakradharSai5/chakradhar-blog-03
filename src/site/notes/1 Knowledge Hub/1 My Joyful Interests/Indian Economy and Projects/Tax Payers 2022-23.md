@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/indian-economy-and-projects/tax-payers-2022-23/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Indian Economy and Projects/Tax Payers 2022-23/","noteIcon":""}
 ---
 
 Out of the 7.33 crore tax filers in the country, 70% tax filers did not pay any tax. This means just about 2.3 crore people, that’s 1.5% of the population actually pays Income Tax.  

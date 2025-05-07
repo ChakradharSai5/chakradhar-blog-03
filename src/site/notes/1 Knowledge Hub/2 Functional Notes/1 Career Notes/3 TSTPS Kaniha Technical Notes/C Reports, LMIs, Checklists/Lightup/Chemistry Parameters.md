@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/c-reports-lm-is-checklists/lightup/chemistry-parameters/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/C Reports, LMIs, Checklists/Lightup/Chemistry Parameters/","noteIcon":""}
 ---
 
 1. After checking the sample from separator drain and with chemistry clearance AA/AN valves to hot well to be opened and increase feed water flow to 200TPH Clearance Parameters: Sample: Separator Drain 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/pending-place/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/Pending Place/","noteIcon":""}
 ---
 
 - Sons of darkness some say as Indian GOT, checkout the review in free time, if its worth

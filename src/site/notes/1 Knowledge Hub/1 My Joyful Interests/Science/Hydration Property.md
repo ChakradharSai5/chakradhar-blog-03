@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/science/hydration-property/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Science/Hydration Property/","noteIcon":""}
 ---
 
 - There is something called hydration property of water, what it means is, we think, at least till now I thought ions can't be stable, like any ion like H+ or OH- all these are unstable is what I thought; but today I found out that water has this property called hydration

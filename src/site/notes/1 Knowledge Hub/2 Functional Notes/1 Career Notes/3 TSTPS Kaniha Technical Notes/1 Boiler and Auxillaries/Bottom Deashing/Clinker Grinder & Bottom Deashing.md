@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/1-boiler-and-auxillaries/bottom-deashing/clinker-grinder-and-bottom-deashing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/1 Boiler and Auxillaries/Bottom Deashing/Clinker Grinder & Bottom Deashing/","noteIcon":""}
 ---
 
 - Clinker Grinder trip from no ON/Running feedback, and power fuses not ok and control fuses being ok, it will show Power supply healthy, and if you give start, running indication shall not come, refer  [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/2 Power Plant Systems/Electrical Schemes and Systems/DN3 Module scheme\|DN3 Module scheme]] & [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/2 Power Plant Systems/Electrical Schemes and Systems/N3 Module Scheme\|N3 Module Scheme]]\

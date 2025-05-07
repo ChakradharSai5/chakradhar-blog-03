@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/b-how-to/how-to-cook/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/B How To/How to Cook/","noteIcon":""}
 ---
 
 #### Vegetables cutting

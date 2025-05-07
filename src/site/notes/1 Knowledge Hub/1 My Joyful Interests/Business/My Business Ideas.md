@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/business/my-business-ideas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Business/My Business Ideas/","noteIcon":""}
 ---
 
 - Idea of making business in applying jobs area with customer care and clarity, having all their details and coming up as and when required 

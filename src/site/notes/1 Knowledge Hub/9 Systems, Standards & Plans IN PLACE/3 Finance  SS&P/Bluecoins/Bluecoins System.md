@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/3-finance-ss-and-p/bluecoins/bluecoins-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/3 Finance  SS&P/Bluecoins/Bluecoins System/","noteIcon":""}
 ---
 
 ### Bluecoins Synch System

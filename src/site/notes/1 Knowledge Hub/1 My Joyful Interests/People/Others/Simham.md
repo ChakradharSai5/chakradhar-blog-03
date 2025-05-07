@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/simham/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Simham/","noteIcon":""}
 ---
 
 - Simham did not taken home loan from NTPC, purchased a house of 75lakh in Vijayawada, taken home loan SBI 50lakh loan, and with down payment 25 lakh

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/c-reports-lm-is-checklists/cep-isolation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/C Reports, LMIs, Checklists/CEP isolation/","noteIcon":""}
 ---
 
 - During [[CEP\|CEP]] isolation, if isolation don't happen properly that is if it is still coming under vacuum, then even if the drainis opened, water willnot come through drain

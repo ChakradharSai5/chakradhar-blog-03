@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/a-general-s-and-s/instagram-saved-posts-organizing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/A General S&S/Instagram Saved Posts organizing/","noteIcon":""}
 ---
 
 ### Collection made to be exclusive

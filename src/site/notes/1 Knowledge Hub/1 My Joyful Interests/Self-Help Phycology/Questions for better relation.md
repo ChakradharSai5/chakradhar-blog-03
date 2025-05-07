@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/questions-for-better-relation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Questions for better relation/","noteIcon":""}
 ---
 
 - Ask about high and low of day

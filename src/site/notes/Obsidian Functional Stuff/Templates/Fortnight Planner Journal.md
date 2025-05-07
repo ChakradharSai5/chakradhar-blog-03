@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-functional-stuff/templates/fortnight-planner-journal/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Obsidian Functional Stuff/Templates/Fortnight Planner Journal/","noteIcon":""}
 ---
 
 ### <% tp.date.now("Do MMMM YYYY") %>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/7-other-systems-notes/zero-hour-calculation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/7 Other Systems Notes/Zero Hour Calculation/","noteIcon":""}
 ---
 
 - The generator reading requires a multiplication factor of 4 to get to MWhr, Later find the difference from yesterdays Generator reading to todays and convert it million units,- which must be equal to million units reading taken from DCS.

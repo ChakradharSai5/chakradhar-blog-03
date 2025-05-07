@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/a-books/financial-statements-step-by-step-understanding/financial-statements-step-by-step-understanding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/A Books/Financial Statements Step by Step Understanding/Financial Statements Step by Step Understanding/","noteIcon":""}
 ---
 
 ### What question you are looking to get answered in this book?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/economy/standard-of-living-earning-comparison/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Economy/Standard of Living Earning comparison/","noteIcon":""}
 ---
 
 How much should you be earning if you move to the US, UK or UAE to maintain the same standard of living that you have in India?  

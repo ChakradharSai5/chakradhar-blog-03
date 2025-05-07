@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/resource-options-library/tools/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/Resource Options-Library/Tools/","noteIcon":""}
 ---
 
 - To make wordwise for non kindle books the source of code and instruction to run is available at this Git Hub

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/tech/samsung-laptop/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Tech/Samsung Laptop/","noteIcon":""}
 ---
 
 ### Book 4 360 vs Book 4 360 Pro

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/mba/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/MBA/","noteIcon":""}
 ---
 
 - As said by [[1 Knowledge Hub/1 My Joyful Interests/People/Others/Divyansh\|Divyansh]], MBA has mostly three categories, and we will not be choosing these departments, as we go with the course, as we select our electives our department gets decided

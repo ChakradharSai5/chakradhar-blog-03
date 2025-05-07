@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/1-boiler-and-auxillaries/fd-fan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/1 Boiler and Auxillaries/FD Fan/","noteIcon":""}
 ---
 
 - For air measurement the transmitters that are shown in DCS as LHS and RHS are at around 48Mtr a duct going side of the boiler![WhatsApp Image 2025-04-21 at 16.47.33_acde9f98.jpg](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/WhatsApp%20Image%202025-04-21%20at%2016.47.33_acde9f98.jpg)

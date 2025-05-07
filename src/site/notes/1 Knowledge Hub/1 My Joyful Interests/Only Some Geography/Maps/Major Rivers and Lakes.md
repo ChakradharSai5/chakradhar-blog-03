@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/only-some-geography/maps/major-rivers-and-lakes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Only Some Geography/Maps/Major Rivers and Lakes/","noteIcon":""}
 ---
 
 

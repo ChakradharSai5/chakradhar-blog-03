@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/ntpc-rules/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/NTPC rules/","noteIcon":""}
 ---
 
 - - **LEAVE PLAN **

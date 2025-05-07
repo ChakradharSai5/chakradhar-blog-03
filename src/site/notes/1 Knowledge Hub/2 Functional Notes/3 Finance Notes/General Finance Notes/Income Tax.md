@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/general-finance-notes/income-tax/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/General Finance Notes/Income Tax/","noteIcon":""}
 ---
 
 # Income tax

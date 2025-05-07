@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/chakradhar-finance-notes/plots/plot-stories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/Chakradhar Finance Notes/Plots/Plot Stories/","noteIcon":""}
 ---
 
 - Chandragiri - The house in the AVR land, is sold at 65Lakh in 2021-23

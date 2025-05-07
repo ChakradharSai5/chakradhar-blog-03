@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/1-power-plant-business-market/normal-power-scheduling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/1 Power Plant Business Market/Normal Power Scheduling/","noteIcon":""}
 ---
 
 Here's a detailed breakdown of the normal scheduling of power from a generator's perspective and how RRAS gets activated in real-time in relation to it:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/all-other-notes/measuring-units/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/All Other Notes/Measuring units/","noteIcon":""}
 ---
 
 ## Measuring units

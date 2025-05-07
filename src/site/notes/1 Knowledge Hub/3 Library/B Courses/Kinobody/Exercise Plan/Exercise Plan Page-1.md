@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/kinobody/exercise-plan/exercise-plan-page-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Kinobody/Exercise Plan/Exercise Plan Page-1/","noteIcon":""}
 ---
 
 - **Exercise:**

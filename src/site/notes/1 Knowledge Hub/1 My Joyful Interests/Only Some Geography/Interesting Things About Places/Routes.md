@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/only-some-geography/interesting-things-about-places/routes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Only Some Geography/Interesting Things About Places/Routes/","noteIcon":""}
 ---
 
 - At talcher Road station, 

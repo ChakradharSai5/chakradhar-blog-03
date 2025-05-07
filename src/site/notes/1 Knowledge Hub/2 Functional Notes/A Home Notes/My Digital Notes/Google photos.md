@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/a-home-notes/my-digital-notes/google-photos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/A Home Notes/My Digital Notes/Google photos/","noteIcon":""}
 ---
 
 

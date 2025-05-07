@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/2-power-plant-systems/boiler/starvation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/2 Power Plant Systems/Boiler/Starvation/","noteIcon":""}
 ---
 
 starvation is something that may happen due to non flow of fluid -*be it water or steam* - that is we are giving heat and not giving any cooling medium

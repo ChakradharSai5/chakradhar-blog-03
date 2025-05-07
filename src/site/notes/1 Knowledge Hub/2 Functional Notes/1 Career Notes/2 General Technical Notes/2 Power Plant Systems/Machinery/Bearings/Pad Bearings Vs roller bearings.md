@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/2-power-plant-systems/machinery/bearings/pad-bearings-vs-roller-bearings/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/2 Power Plant Systems/Machinery/Bearings/Pad Bearings Vs roller bearings/","noteIcon":""}
 ---
 
 #pending - *what exactly are pad bearing and roller bearing how is works*

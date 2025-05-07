@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/chakradhar-finance-notes/rental-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/Chakradhar Finance Notes/Rental Plan/","noteIcon":""}
 ---
 
 If you rent out a house, please do not make the mistake of using a “Rent Agreement” or “Lease Agreement”...  

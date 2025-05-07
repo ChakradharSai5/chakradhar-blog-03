@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/1-power-plant-incidents-and-experiences/unchahar-incident/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/1 Power Plant Incidents & Experiences/Unchahar Incident/","noteIcon":""}
 ---
 
 - Boiler explosion causing around 43 people dead

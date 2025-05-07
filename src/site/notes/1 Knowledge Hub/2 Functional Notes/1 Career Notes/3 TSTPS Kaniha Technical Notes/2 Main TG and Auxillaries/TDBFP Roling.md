@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/2-main-tg-and-auxillaries/tdbfp-roling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/2 Main TG and Auxillaries/TDBFP Roling/","noteIcon":""}
 ---
 
 1.  Revise [[TDBFP\|TDBFP]] [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/A Protection Interlocks and Control Logic Systems/Pni\|Pni]]

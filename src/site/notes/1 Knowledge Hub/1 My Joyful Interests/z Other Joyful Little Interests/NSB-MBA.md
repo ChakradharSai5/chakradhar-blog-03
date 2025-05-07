@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/nsb-mba/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/NSB-MBA/","noteIcon":""}
 ---
 
 - As said by Sheetal sir

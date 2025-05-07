@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/7-other-systems-notes/ac-system/vc-fans-and-pump-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/7 Other Systems Notes/AC System/VC Fans and pump System/","noteIcon":""}
 ---
 
 - In unit-1 & 2 we have 1234 and 5678 VC fans respectively

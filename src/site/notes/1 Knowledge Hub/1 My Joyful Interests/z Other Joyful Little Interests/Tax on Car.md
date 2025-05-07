@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/tax-on-car/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/Tax on Car/","noteIcon":""}
 ---
 
 - Car that are length less than 4mtr & less than 1200cc

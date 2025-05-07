@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/a-protection-interlocks-and-control-logic-systems/main-tg-protection/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/A Protection Interlocks and Control Logic Systems/Main TG Protection/","noteIcon":""}
 ---
 
 - The protection trip from vacuum is as you know , peculiarly done here

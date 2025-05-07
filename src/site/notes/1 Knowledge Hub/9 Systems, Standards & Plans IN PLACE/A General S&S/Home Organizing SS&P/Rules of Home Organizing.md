@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/a-general-s-and-s/home-organizing-ss-and-p/rules-of-home-organizing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/A General S&S/Home Organizing SS&P/Rules of Home Organizing/","noteIcon":""}
 ---
 
 - Any new device comes to home, if you feel guide is requied to be refered in future, then guide to be kept in white ikea steel drawer NTPC folder

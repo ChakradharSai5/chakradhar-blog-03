@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/happiness-and-parenting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Happiness & Parenting/","noteIcon":""}
 ---
 
 I guess happiness is not what we should we go after, we should go after things that make us feel “Flow” or that makes you live in that moment

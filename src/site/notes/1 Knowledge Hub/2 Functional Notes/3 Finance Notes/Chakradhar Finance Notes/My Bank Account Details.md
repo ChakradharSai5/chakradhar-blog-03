@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/chakradhar-finance-notes/my-bank-account-details/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/Chakradhar Finance Notes/My Bank Account Details/","noteIcon":""}
 ---
 
 -  Sravya Indian bank Account No: 941214082

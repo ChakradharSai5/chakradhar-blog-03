@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/travel/kashmir/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Travel/Kashmir/","noteIcon":""}
 ---
 
 - Gulmarg is no less than switzerland

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/c-reports-lm-is-checklists/timing-of-light-up-activities/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/C Reports, LMIs, Checklists/Timing of Light up activities/","noteIcon":""}
 ---
 
 ### Usual Timings

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/vinoth-kumar-ntpc-c-and-i/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Vinoth Kumar NTPC C&I/","noteIcon":""}
 ---
 
 - about Vinoth E3 electrical joined in C&I, 11 years experience in some PNP plant in Tamilnadu, then to ntpc Jannur, near antoher ntpc Kawas near some city, 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/notions-i-derirved/when-to-disagree-with-loved-ones/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/When to disagree with Loved Ones/","noteIcon":""}
 ---
 
 # When to disagree with your loved ones?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/a-home-notes/car-notes/my-car-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/A Home Notes/Car Notes/My Car Notes/","noteIcon":""}
 ---
 
 ### Servicing

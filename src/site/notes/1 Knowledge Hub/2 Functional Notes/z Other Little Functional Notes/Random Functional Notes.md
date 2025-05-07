@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/z-other-little-functional-notes/random-functional-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/z Other Little Functional Notes/Random Functional Notes/","noteIcon":""}
 ---
 
 - ICH rent at Bhubaneswar 81.25

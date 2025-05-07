@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/physics-principles-and-laws/dc-vs-ac-motor-working-mechanism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Physics Principles and Laws/DC Vs AC Motor Working mechanism/","noteIcon":""}
 ---
 
 - DC Motor

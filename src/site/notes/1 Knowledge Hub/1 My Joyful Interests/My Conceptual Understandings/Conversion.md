@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/conversion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Conversion/","noteIcon":""}
 ---
 
 1,000=kilo = thousand = 10

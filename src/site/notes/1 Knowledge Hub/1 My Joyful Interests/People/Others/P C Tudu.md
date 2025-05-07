@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/p-c-tudu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/P C Tudu/","noteIcon":""}
 ---
 
 - PC Tudu sir also did inspection job, while working in rural electrification area, as his job as project co-ordinator includes this inspection of for examples electric poles etc,.

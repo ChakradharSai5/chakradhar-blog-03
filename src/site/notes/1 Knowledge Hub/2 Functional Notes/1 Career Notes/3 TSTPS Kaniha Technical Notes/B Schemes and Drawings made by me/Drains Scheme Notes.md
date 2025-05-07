@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/b-schemes-and-drawings-made-by-me/drains-scheme-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/B Schemes and Drawings made by me/Drains Scheme Notes/","noteIcon":""}
 ---
 
 - Satish sir given scheme is correct. it has drains as mentioned in condersor flood test list of drain valves. - which is actual as we have operated them accordingly while flood test.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/all-other-notes/power-calculation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/All Other Notes/Power calculation/","noteIcon":""}
 ---
 
 - 500MW for 24Hrs is 12mu ( Million units )

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/notions-i-derirved/identity-building/page-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Identity Building/Page-1/","noteIcon":""}
 ---
 
 

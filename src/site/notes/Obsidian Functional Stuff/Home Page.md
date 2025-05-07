@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-functional-stuff/home-page/","tags":["excalidraw"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Obsidian Functional Stuff/Home Page/","tags":["excalidraw"],"noteIcon":""}
 ---
 
 

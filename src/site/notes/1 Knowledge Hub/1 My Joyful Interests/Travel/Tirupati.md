@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/travel/tirupati/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Travel/Tirupati/","noteIcon":""}
 ---
 
 - https://www.instagram.com/p/C3cjOd7PSOy/

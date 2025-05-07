@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-functional-stuff/z-all-pdfs-images-and-small-excalidraws/obsidian-vault-synch-system-drawing/","tags":["excalidraw"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Obsidian Functional Stuff/z-All pdfs, Images & Small Excalidraws/Obsidian Vault Synch System Drawing/","tags":["excalidraw"],"noteIcon":""}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==

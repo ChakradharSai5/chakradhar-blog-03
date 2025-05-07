@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/c-reports-lm-is-checklists/lmi/tg-barring/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/C Reports, LMIs, Checklists/LMI/TG Barring/","noteIcon":""}
 ---
 
 - Barring gear arrangement is provided to keep it rotating at a nominal speed for preventing thermal bending (Eccentricity) in hot conditions to allow uniform heating or cooling during start up or shut down and thus prevent developing rotor eccentricity.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/physics-principles-and-laws/ac-motor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Physics Principles and Laws/AC Motor/","noteIcon":""}
 ---
 
 - People when they say Induction motor, they are talking about AC Motors

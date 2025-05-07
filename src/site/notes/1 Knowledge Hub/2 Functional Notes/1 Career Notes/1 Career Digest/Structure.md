@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/1-career-digest/structure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/1 Career Digest/Structure/","noteIcon":""}
 ---
 
 - There is something called DOP – delegation of power – available in MTP page of intranet which has all eligibility of power delegated for the things to buy that can be used, like any things to be bought for plant requirement

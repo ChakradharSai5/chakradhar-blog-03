@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/untitled/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/Untitled/","noteIcon":""}
 ---
 

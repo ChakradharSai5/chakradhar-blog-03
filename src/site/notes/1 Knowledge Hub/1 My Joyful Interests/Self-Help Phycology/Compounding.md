@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/compounding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Compounding/","noteIcon":""}
 ---
 
 A Rupee that doubles every day, ends up becoming Rs. 53,68,70,912 in 30 days.  

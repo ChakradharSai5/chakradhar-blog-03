@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/2-tstps-incidents-and-experiences/ms-switchgear-changeover/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/2 TSTPS Incidents & Experiences/MS switchgear changeover/","noteIcon":""}
 ---
 
 - In miscellaneous switchgear, we did changeover of source of MS-A bus and MS-B bus, from incomer of MS-A & MS-B respectively to MS-C tie incomer

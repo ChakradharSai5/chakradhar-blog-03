@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/4-ntpc/ntpc-locations/locations-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/4 NTPC/NTPC Locations/Locations-1/","noteIcon":""}
 ---
 
 - [[Saurabh srimali\|Saurabh srimali]] sir worked in nuclear plant

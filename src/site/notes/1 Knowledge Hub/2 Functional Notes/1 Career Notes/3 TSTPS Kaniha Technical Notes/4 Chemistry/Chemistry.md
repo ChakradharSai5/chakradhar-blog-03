@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/4-chemistry/chemistry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/4 Chemistry/Chemistry/","noteIcon":""}
 ---
 
 ![UQ1nTsL - Imgur.jpg](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/UQ1nTsL%20-%20Imgur.jpg)

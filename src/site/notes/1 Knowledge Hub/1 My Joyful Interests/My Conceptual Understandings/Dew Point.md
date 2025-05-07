@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/dew-point/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Dew Point/","noteIcon":""}
 ---
 
 ## Dew point

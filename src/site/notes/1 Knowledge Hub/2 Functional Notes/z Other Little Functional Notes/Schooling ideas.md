@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/z-other-little-functional-notes/schooling-ideas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/z Other Little Functional Notes/Schooling ideas/","noteIcon":""}
 ---
 
 In Bengaluru

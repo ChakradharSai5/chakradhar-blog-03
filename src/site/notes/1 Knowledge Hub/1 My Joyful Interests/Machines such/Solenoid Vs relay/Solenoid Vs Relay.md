@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/machines-such/solenoid-vs-relay/solenoid-vs-relay/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Machines such/Solenoid Vs relay/Solenoid Vs Relay/","noteIcon":""}
 ---
 
 - Solenoid as such will be 

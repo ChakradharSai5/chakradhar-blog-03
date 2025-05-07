@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/2-tstps-incidents-and-experiences/experience-of-main-tg-rolling-trip/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/2 TSTPS Incidents & Experiences/Experience of Main TG rolling trip/","noteIcon":""}
 ---
 
 # Experience of [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/A Protection Interlocks and Control Logic Systems/CLCS/Main TG\|Main TG]] rolling trip

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/untitled/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/Untitled/","noteIcon":""}
 ---
 
 Hello 

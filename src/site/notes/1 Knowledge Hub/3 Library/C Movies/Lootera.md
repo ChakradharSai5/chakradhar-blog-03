@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/c-movies/lootera/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/C Movies/Lootera/","noteIcon":""}
 ---
 
 Lootera- I really liked the movie, it gave me a vibe of calm and peaceful lifestyle,

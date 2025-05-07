@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/2-tstps-incidents-and-experiences/experience-from-tdbfp-1-a-mechanical-bolt-not-working/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/2 TSTPS Incidents & Experiences/Experience from TDBFP-1A mechanical bolt not working/","noteIcon":""}
 ---
 
 ### **Experience from [[TDBFP\|TDBFP]]-1A mechanical bolt not working

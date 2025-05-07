@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/3-power-plant-commerce/clarity-on-terms/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/3 Power Plant Commerce/Clarity on Terms/","noteIcon":""}
 ---
 
 - We have for example TSTPS Kaniha Stage-1 with 

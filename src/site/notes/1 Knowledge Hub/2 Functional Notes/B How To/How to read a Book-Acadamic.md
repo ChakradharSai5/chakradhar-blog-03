@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/b-how-to/how-to-read-a-book-acadamic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/B How To/How to read a Book-Acadamic/","noteIcon":""}
 ---
 
 - **To read any new concepts or new textbook concept topics, while doing this below steps try to connect dots of why**

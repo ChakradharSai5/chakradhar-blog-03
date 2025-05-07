@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/0-tstps-general-notes/parameters-at-low-load/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/0 TSTPS General Notes/Parameters at Low Load/","noteIcon":""}
 ---
 
 ### **Parameters at almost stable low load Unit-1:**

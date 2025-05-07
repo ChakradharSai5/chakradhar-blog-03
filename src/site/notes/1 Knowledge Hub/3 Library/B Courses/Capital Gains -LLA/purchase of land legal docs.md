@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/capital-gains-lla/purchase-of-land-legal-docs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Capital Gains -LLA/purchase of land legal docs/","noteIcon":""}
 ---
 
 # purchase of land legal docs

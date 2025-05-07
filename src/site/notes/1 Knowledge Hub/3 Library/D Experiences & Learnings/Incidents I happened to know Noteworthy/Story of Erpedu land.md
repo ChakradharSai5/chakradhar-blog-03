@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/incidents-i-happened-to-know-noteworthy/story-of-erpedu-land/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/Incidents I happened to know Noteworthy/Story of Erpedu land/","noteIcon":""}
 ---
 
 - Erpedu land of Thatha/Bharani mama

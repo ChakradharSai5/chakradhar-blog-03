@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/b-how-to/how-to-read-a-book-nonfiction/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/B How To/How to read a Book-Nonfiction/","noteIcon":""}
 ---
 
 ### THIS ALSO WORKS TO LEARN FROM YOUTUBE VIDEO ALSO 

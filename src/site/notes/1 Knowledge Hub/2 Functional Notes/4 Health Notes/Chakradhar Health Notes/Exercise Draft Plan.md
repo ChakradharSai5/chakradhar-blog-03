@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/4-health-notes/chakradhar-health-notes/exercise-draft-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/4 Health Notes/Chakradhar Health Notes/Exercise Draft Plan/","noteIcon":""}
 ---
 
 First I will focus on only upper body exercises and sticking to routine and diet

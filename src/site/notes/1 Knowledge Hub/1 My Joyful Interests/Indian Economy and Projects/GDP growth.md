@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/indian-economy-and-projects/gdp-growth/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Indian Economy and Projects/GDP growth/","noteIcon":""}
 ---
 
 I was looking at the Nominal GDP of India since 1990…  

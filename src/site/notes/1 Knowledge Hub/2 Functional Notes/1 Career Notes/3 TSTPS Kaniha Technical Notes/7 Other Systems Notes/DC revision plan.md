@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/7-other-systems-notes/dc-revision-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/7 Other Systems Notes/DC revision plan/","noteIcon":""}
 ---
 
 - - if revised, in even block gets revised from +7 block, if odd, +6

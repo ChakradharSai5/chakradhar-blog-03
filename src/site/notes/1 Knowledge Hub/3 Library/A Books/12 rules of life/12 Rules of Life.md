@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/a-books/12-rules-of-life/12-rules-of-life/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/A Books/12 rules of life/12 Rules of Life/","noteIcon":""}
 ---
 
 ### What question you are looking to get answered in this book?

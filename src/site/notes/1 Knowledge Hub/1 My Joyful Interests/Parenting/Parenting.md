@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/parenting/parenting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Parenting/Parenting/","noteIcon":""}
 ---
 
 - Your job as a parent is to make your child socailly acceptable by the age of 4-5, **burn that in to your mind**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/travel/bali-and-other-near/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Travel/Bali and other near/","noteIcon":""}
 ---
 
 - https://www.instagram.com/p/CwpwHegRO-s/

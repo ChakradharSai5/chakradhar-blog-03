@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/a-books/financial-statements-step-by-step-understanding/chapter-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/A Books/Financial Statements Step by Step Understanding/Chapter-1/","noteIcon":""}
 ---
 
 P.I.E : Profits, Income, Earnings all are same meaning, all are bottom line

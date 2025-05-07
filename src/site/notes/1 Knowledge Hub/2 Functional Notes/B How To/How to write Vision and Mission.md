@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/b-how-to/how-to-write-vision-and-mission/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/B How To/How to write Vision and Mission/","noteIcon":""}
 ---
 
 # Write a mission and vision

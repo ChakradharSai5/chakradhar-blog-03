@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/2-tstps-incidents-and-experiences/unit-stopping-due-to-acc-high/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/2 TSTPS Incidents & Experiences/Unit stopping due to ACC high/","noteIcon":""}
 ---
 
 Unit-1 stopped as ACC went very high, out of range- #pending ,in all circuits that are condensate, feedwater SH and RH circuits. 

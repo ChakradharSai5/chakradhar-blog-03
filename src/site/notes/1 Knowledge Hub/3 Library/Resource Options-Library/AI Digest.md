@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/resource-options-library/ai-digest/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/Resource Options-Library/AI Digest/","noteIcon":""}
 ---
 
 ### Google Deep Mind on AI

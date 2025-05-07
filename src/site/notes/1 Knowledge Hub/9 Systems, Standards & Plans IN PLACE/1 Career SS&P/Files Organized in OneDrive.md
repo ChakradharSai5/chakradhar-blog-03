@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/1-career-ss-and-p/files-organized-in-one-drive/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/1 Career SS&P/Files Organized in OneDrive/","noteIcon":""}
 ---
 
 ### One Drive Files organized of Office

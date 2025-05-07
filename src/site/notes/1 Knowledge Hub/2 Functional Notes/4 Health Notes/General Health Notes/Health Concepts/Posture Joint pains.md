@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/4-health-notes/general-health-notes/health-concepts/posture-joint-pains/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/4 Health Notes/General Health Notes/Health Concepts/Posture Joint pains/","noteIcon":""}
 ---
 
 - **Sitting for a long time:**

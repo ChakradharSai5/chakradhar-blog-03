@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/9-systems-standards-and-plans-in-place/4-health-ss-and-p/diet-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/9 Systems, Standards & Plans IN PLACE/4 Health  SS&P/Diet Plan/","noteIcon":""}
 ---
 
 ### Diet Plan

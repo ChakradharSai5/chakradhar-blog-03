@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/film-making/short-film-ideas-i-can-easily-do/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Film making/Short Film Ideas I can easily do/","noteIcon":""}
 ---
 
 [

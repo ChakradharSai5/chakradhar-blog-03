@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/hitesh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Hitesh/","noteIcon":""}
 ---
 
 - He applied for, I think DRDO, however due to non giving of NOC by NTPC, he got rejected and were not able to give interview at DRDO - not sure, yet to confirm

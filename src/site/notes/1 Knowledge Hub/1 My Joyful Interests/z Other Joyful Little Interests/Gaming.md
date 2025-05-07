@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/z-other-joyful-little-interests/gaming/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/z Other Joyful Little Interests/Gaming/","noteIcon":""}
 ---
 
 - There is a game called dedicated to the lore of the Elder Scrolls series, a popular franchise of role-playing video games

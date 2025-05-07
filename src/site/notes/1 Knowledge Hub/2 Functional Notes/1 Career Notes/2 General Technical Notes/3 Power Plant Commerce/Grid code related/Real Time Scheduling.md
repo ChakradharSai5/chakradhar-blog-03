@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/3-power-plant-commerce/grid-code-related/real-time-scheduling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/3 Power Plant Commerce/Grid code related/Real Time Scheduling/","noteIcon":""}
 ---
 
 ![Pasted image 20250429083403.png](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/Pasted%20image%2020250429083403.png)

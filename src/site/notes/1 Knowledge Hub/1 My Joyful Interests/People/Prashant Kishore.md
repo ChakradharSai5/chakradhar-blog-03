@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/prashant-kishore/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Prashant Kishore/","noteIcon":""}
 ---
 
 - A very interesting idea told by him in an interview is about the aspiration of people, that people aspirations is something that is to be satisfied, howmuch ever people may have, they will have always have this notion that they want a better life

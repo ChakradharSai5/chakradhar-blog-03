@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/self-help-phycology/notions-i-derirved/sravya-not-being-confident/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Sravya not being Confident/","noteIcon":""}
 ---
 
 - I noticed Sravya facing this psycholoical compel of eing fearful and constanntly thinking hat she may hurt somebody and so being so she distacncing heerswlf from enjoying social life to a huge extent

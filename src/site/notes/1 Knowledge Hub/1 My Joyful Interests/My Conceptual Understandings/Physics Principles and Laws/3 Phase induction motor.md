@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/my-conceptual-understandings/physics-principles-and-laws/3-phase-induction-motor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/My Conceptual Understandings/Physics Principles and Laws/3 Phase induction motor/","noteIcon":""}
 ---
 
 ![[3 Phase induction motor Drawing.svg\|3 Phase induction motor Drawing.svg]]

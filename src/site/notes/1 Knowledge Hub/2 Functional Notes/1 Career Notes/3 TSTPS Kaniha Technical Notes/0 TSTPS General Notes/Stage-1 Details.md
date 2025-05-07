@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/0-tstps-general-notes/stage-1-details/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/0 TSTPS General Notes/Stage-1 Details/","noteIcon":""}
 ---
 
 ◦ TSTPP Stage-1 has two 500 MW units, where Boiler is supplied by STEIN INDUSTRIES, FRANCE and Turbo-Generator is supplied by ABB, GERMANY

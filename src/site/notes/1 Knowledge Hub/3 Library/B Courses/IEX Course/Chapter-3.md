@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/iex-course/chapter-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/IEX Course/Chapter-3/","noteIcon":""}
 ---
 
 ## Chapter-3 Products overview

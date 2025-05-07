@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/1-power-plant-business-market/electricity-market/terms-used-while-giving-schedule-by-g-rid/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/1 Power Plant Business Market/Electricity Market/Terms used while giving schedule by GRid/","noteIcon":""}
 ---
 
 ### GNA (General Network Access)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/kinobody/important-points-on-diet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Kinobody/Important Points on Diet/","noteIcon":""}
 ---
 
 - . It’s a shoulder to waist ratio of 1.6:1 is what v shape is mostly.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/politics/national-level/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Politics/National Level/","noteIcon":""}
 ---
 
 - UP - Yogi adityanath in competetion with his current Dy. chief minister Keshav Prasad Maurya, & 

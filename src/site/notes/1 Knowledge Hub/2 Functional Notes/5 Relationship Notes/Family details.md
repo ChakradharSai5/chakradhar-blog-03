@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/5-relationship-notes/family-details/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/5 Relationship Notes/Family details/","noteIcon":""}
 ---
 
 - Siva

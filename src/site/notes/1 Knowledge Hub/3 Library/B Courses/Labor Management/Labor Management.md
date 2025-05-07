@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/labor-management/labor-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Labor Management/Labor Management/","noteIcon":""}
 ---
 
 ![TW4Trdn - Imgur.png](/img/user/Obsidian%20Functional%20Stuff/z-All%20pdfs,%20Images%20&%20Small%20Excalidraws/TW4Trdn%20-%20Imgur.png)

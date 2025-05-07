@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/d-experiences-and-learnings/1-office/3-overhauling-learnings/cw-duct-charging/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/D Experiences & Learnings/1 Office/3 Overhauling Learnings/CW duct charging/","noteIcon":""}
 ---
 
 - CW duct charging down one side from CW blow down I think Hot CW duct, ICV 1 and ICV 2 CW cold duct charging

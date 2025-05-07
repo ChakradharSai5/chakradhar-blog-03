@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/3-library/b-courses/kinobody/diet-plan/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/3 Library/B Courses/Kinobody/Diet Plan/","noteIcon":""}
 ---
 
 - calorie split of about 27% protein, 33% fat and 40% carbs.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/3-tstps-kaniha-technical-notes/2-main-tg-and-auxillaries/random-things-on-main-tg-and-auxiallaries/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/2 Main TG and Auxillaries/Random Things on Main TG and Auxiallaries/","noteIcon":""}
 ---
 
 - Main TG JOP pressure **during shut down** normal shall be

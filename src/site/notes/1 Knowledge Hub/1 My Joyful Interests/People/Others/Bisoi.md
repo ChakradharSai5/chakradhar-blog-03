@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/bisoi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Bisoi/","noteIcon":""}
 ---
 
 Our guy bisoi is from ichhapuram near vizag i think, he is located at place where

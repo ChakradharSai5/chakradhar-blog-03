@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/1-career-digest/current-affairs/current-affairs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/1 Career Digest/Current Affairs/Current Affairs/","noteIcon":""}
 ---
 
 ## Current affairs

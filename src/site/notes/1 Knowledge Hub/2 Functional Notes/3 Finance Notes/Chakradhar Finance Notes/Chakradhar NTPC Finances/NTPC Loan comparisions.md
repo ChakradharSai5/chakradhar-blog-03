@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/3-finance-notes/chakradhar-finance-notes/chakradhar-ntpc-finances/ntpc-loan-comparisions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/3 Finance Notes/Chakradhar Finance Notes/Chakradhar NTPC Finances/NTPC Loan comparisions/","noteIcon":""}
 ---
 
 ### Car Loan

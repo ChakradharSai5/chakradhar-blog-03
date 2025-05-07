@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/people/others/venkateswarlu-sir/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/People/Others/Venkateswarlu sir/","noteIcon":""}
 ---
 
 Venkateswarlesu native and previous working experience from ranagundam and about his 10x training and about NVVN

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/2-functional-notes/1-career-notes/2-general-technical-notes/3-power-plant-commerce/grid-code-related/ramp-rate-logic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/2 Functional Notes/1 Career Notes/2 General Technical Notes/3 Power Plant Commerce/Grid code related/Ramp rate logic/","noteIcon":""}
 ---
 
 - During Ramp up of unit light up time, our EEMG guy sudhanshu sir logic is if our DC revision it self is from block to block is less than 1% ramp, then though we declare 1% ramp eligible block for this period, doesn't mater, because any way our SG is going to get capped at DC, so no way we are actually going to get 1% ramp, but effectively we are increasing our 1% declared blocks, so it helps in getting our incentive of ramp

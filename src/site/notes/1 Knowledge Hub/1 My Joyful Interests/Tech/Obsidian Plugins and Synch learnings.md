@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge-hub/1-my-joyful-interests/tech/obsidian-plugins-and-synch-learnings/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1 Knowledge Hub/1 My Joyful Interests/Tech/Obsidian Plugins and Synch learnings/","noteIcon":""}
 ---
 
 ### Google Project
